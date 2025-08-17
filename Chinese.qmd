@@ -37,8 +37,7 @@ editor:
 
 
 ## 部分论文
-- **连玉君**, 李鑫. 完全刑责年龄法律对未成年人犯罪行为的威慑作用研究. **统计研究**, 2024, 已接受. [工作论文版](https://file-lianxh.oss-cn-shenzhen.aliyuncs.com/Refs/LianPub/%E8%BF%9E%E7%8E%89%E5%90%9B-%E6%9D%8E%E9%91%AB-2024-%E7%BB%9F%E8%AE%A1%E7%A0%94%E7%A9%B6-RDD-%E6%9C%AA%E6%88%90%E5%B9%B4%E4%BA%BA.pdf)
-
+- 
 
 ## 科研项目
 
