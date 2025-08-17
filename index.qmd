@@ -1,24 +1,24 @@
 ---
-title: "Yujun Lian"
-image: images/lianyujun_2025.png
+title: "wukeping"
+image: images/wukeping.png
 about:
   id: hero-heading
   template: trestles
   image-width: 12em
-  image-shape: round
+  image-shape: rectangle
   links:
     - icon: mailbox
-      text: arlionn@163.com
+      text: 050054@chu.edu.cn
       href: mailto:arlionn@163.com
     - icon: github
       text: arlionn
-      href: https://github.com/lianyujun
+      href: https://github.com/wukeping
     - icon: book
       text: Google Scholar
-      href: https://scholar.google.com/citations?user=tlkDP2AAAAAJ
+      href: https://scholar.google.com/citations?hl=zh-CN&user=zC8cLTEAAAAJ
     - icon: fingerprint
       text: ORCID
-      href: https://orcid.org/0000-0002-2011-7535
+      href: https://orcid.org/0000-0003-4949-7786
     - icon: brands zhihu
       text: 知乎
       href: https://www.zhihu.com/people/arlionn/
@@ -56,7 +56,7 @@ He is also the founder of the website <https://www.lianxh.cn>, one of the larges
 - Aug 2015 - Jan 2016: Visiting Scholar, MIT Sloan School of Management, Massachusetts Institute of Technology
 - 2011 - Present: Associate Professor, Lingnan College, Sun Yat-sen University, specializing in Quantitative Economics
 - 2007-2010: Lecturer, Department of Finance, Lingnan College, Sun Yat-sen University
-- 2001-2007: Ph.D. in Economics, Xi'an Jiaotong University, China, specializing in Econometrics
-- 1997-2001: Bachelor of Engineering, Xi'an Jiaotong University, China, majoring in Materials Science.
+- 2011-2014: Ph.D. in Accounting, Renmin University of China, specializing in Accounting and Finance
+- 1993-1997: Bachelor of economics, Anhu University, China, majoring in Accounting.
 
 :::

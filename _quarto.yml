@@ -4,17 +4,18 @@ project:
   
 website:
   page-navigation: true
-  title: "Yujun Lian"
-  site-url: https://lianyujun.github.io
+  title: "Wu Keping"
+  site-url: https://wukeping99-svg.github.io
   favicon: images/site-logo.png
-  repo-url: https://github.com/lianyujun/lianyujun.github.io
-  repo-actions: [edit, issue]
+  repo-url: 'edit'
+  repo-actions: 'edit'
+
   
   page-footer:
-    left: |
-      [lianxh.cn](https://www.lianxh.cn)<br>
-    right: |
-      Made with [Quarto](https://quarto.org/)<br>
+    left: 'edit'
+     
+    right: ''
+    
     
   navbar: 
     background: "#A9CCE3"
