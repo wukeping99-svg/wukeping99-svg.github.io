@@ -29,11 +29,11 @@ about:
       text: 小红书
       href: https://www.xiaohongshu.com/user/profile/682968d9000000000a03da1m
     - icon: solid user
-      text: 工作主页
-      href: https://wukeping.chu.edu.cn/faculty/wukeping
+      text: 百度学术
+      href: https://xueshu.baidu.com/scholarID/CN-BZ73TAQJ
     - icon: brands home
-      text: 学术
-      href: https://www.wukeping.cn
+      text: 科研之友
+      href: https://www.scholarmate.com/P/sgGkTE
     - icon: 📝
       text: CV
       href: CV.pdf  
