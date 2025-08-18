@@ -7,7 +7,7 @@ editor: visual
 ::: {.callout-note}
 ## Links
 
->- **Google Scholar**: <https://https://scholar.google.com/citations?hl=zh-CN&user=zC8cLTEAAAAJ>
+>- **Google Scholar**: <https://scholar.google.com/citations?hl=zh-CN&user=zC8cLTEAAAAJ>
 >- **ORCID**: <https://orcid.org/0000-0003-4949-7786>
 >- **ResearchGate:** <https://www.researchgate.net/profile/wukeping>
 :::
