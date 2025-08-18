@@ -14,7 +14,7 @@ website:
   page-footer:
     left: 'edit'
      
-    right: ''
+    right: 'edit'
     
     
   navbar: 

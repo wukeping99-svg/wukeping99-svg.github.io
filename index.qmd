@@ -21,19 +21,19 @@ about:
       href: https://orcid.org/0000-0003-4949-7786
     - icon: brands zhihu
       text: 知乎
-      href: https://www.zhihu.com/people/arlionn/
+      href: https://www.zhihu.com/people/wukeping99/
     - icon: brands weibo
       text: 微博
-      href: https://weibo.com/arlionn
+      href: https://weibo.com/wukeping99
     - icon: brands xing
       text: 小红书
-      href: https://www.xiaohongshu.com/user/profile/682968d9000000000a03da1a
+      href: https://www.xiaohongshu.com/user/profile/682968d9000000000a03da1m
     - icon: solid user
       text: 工作主页
-      href: https://lingnan.sysu.edu.cn/faculty/LianYujun
+      href: https://wukeping.chu.edu.cn/faculty/wukeping
     - icon: brands home
-      text: 连享会
-      href: https://www.lianxh.cn
+      text: 学术
+      href: https://www.wukeping.cn
     - icon: 📝
       text: CV
       href: CV.pdf  
