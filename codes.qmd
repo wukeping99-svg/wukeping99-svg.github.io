@@ -4,7 +4,7 @@ editor:
   markdown: 
     wrap: 72
 ---
-- 转载连玉君老师网站学习资料
+- 转载连玉君老师网站学习资料:
 Many of the links below will take you to content on GitHub
 ([my github](https://github.com/arlionn)).
 
