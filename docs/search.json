@@ -137,7 +137,7 @@
     "href": "blog.html",
     "title": "Blogs",
     "section": "",
-    "text": "这是连玉君老师平时学习和研究中的笔记整理。\n其一，写作有助于训练自己的深度思考能力。写作过程中，你需要以一种多数读者都能「读懂」的方式来组织文字。这就要求你必须从不同的角度思考你要解释的概念或模型，将其「压缩」到最基本的概念和原理层面，然后从一些生活中例子，或多数读者都熟悉的概念入手，逐渐引导读者进入新的概念和模型。有时候，这需要长久的思考，并与不同人进行讨论，根据他们的反馈调整你的表述方式。在此过程中，受益最大的是自己。很多时候，当你兴冲冲地准备开始写一篇推文时，却发现开头部分很不顺畅，这很可能是你还没有从深层理解你要介绍的东西，你只是掌握了一些表面的东西，或者只是熟悉某个模型的估计命令 (而不是原理)。然而，当你按照上述「压缩」逻辑，尝试用最精简的例子来解释概念和原理时，你对它们的理解会不断加深。\n其二，写作有助于提高表达能力。许多人将语言流畅、用词华丽视为表达能力强的标志，但这只是表面现象。真正的表达能力在于，能够以听众能理解的语言，基于他们的知识背景，把自己想要传达的观点或概念讲清楚。在写作过程中，我们往往已经反复思考过如何最佳地表达，因此，当你在与别人讲解你写过的内容时，通常能够更加清晰和有条理地表达自己的想法。"
+    "text": "转载：这是连玉君老师平时学习和研究中的笔记整理。\n其一，写作有助于训练自己的深度思考能力。写作过程中，你需要以一种多数读者都能「读懂」的方式来组织文字。这就要求你必须从不同的角度思考你要解释的概念或模型，将其「压缩」到最基本的概念和原理层面，然后从一些生活中例子，或多数读者都熟悉的概念入手，逐渐引导读者进入新的概念和模型。有时候，这需要长久的思考，并与不同人进行讨论，根据他们的反馈调整你的表述方式。在此过程中，受益最大的是自己。很多时候，当你兴冲冲地准备开始写一篇推文时，却发现开头部分很不顺畅，这很可能是你还没有从深层理解你要介绍的东西，你只是掌握了一些表面的东西，或者只是熟悉某个模型的估计命令 (而不是原理)。然而，当你按照上述「压缩」逻辑，尝试用最精简的例子来解释概念和原理时，你对它们的理解会不断加深。\n其二，写作有助于提高表达能力。许多人将语言流畅、用词华丽视为表达能力强的标志，但这只是表面现象。真正的表达能力在于，能够以听众能理解的语言，基于他们的知识背景，把自己想要传达的观点或概念讲清楚。在写作过程中，我们往往已经反复思考过如何最佳地表达，因此，当你在与别人讲解你写过的内容时，通常能够更加清晰和有条理地表达自己的想法。"
   },
   {
     "objectID": "blog.html#new-10",
@@ -172,7 +172,7 @@
     "href": "books.html",
     "title": "Books",
     "section": "",
-    "text": "主页 || 课程 || 视频 || 推文 || 资料\n这些书稿是连玉君老师平时上课时的讲义整理而成的，尚未完稿。"
+    "text": "主页 || 课程 || 视频 || 推文 || 资料\n转载：这些书稿是连玉君老师平时上课时的讲义整理而成的。"
   },
   {
     "objectID": "books.html#stata",
@@ -200,7 +200,7 @@
     "href": "codes.html",
     "title": "Codes",
     "section": "",
-    "text": "Many of the links below will take you to content on GitHub (my github).\n\nlianxh：在 Stata 中快速搜索 lianxh.cn 推文并按指定格式输出\n\n连享会, 2020, ssc install lianxh：你想要的 Stata 都在这里\n连享会, 2023, 新版lianxh命令发布了！\n\nbdiff：组间系数差异检验\n\n李烨阳, 2023, Stata：自己动手做组间系数差异检验-bootstrap-bdiff.\n连玉君, 2020, Stata: 如何检验分组回归后的组间系数差异？.\n\nwinsor2：批量缩尾处理\n\n袁煜玲, 2021, winsor2：离群值和异常值的缩尾处理.\n\nihelp / wwwhelp\n\n连享会, 2024, ihelp: 快速打开Stata帮助文件PDF手册.\nChen Yongli, Lian Yujun*. Browse and cite Stata manuals easily: the wwwhelp command. Stata Journal, 2024, 24 (1): 161–168. -PDF-. 安装：ssc install ihelp, replace\n\ngetiref\n\n连玉君, 2024, getiref：快速获得文献的引文和PDF原文.\n\nsftt：双边随机边界模型\n\nLian Yujun, Chang Liu, Christopher F. Parmeter. Two-tier stochastic frontier analysis using Stata. Stata Journal, 2023, 23(1): 197-229. -Link-, -PDF-, Codes & Data, github. 安装：net install st0705.pkg, all replace\n\nhhi5：赫芬达尔指数\n\n连享会, 2020, Stata数据处理：赫芬达尔指数-(hhi5)-命令介绍\n\nxtbalance：非平衡面板 → 平衡面板\n\n吴雄, 2020, Stata数据处理：xtbalance-非平衡面板之转换."
+    "text": "转载连玉君老师网站学习资料 Many of the links below will take you to content on GitHub (my github).\nlianxh：在 Stata 中快速搜索 lianxh.cn 推文并按指定格式输出\n\n连享会, 2020, ssc install lianxh：你想要的 Stata 都在这里\n连享会, 2023, 新版lianxh命令发布了！\n\nbdiff：组间系数差异检验\n\n李烨阳, 2023, Stata：自己动手做组间系数差异检验-bootstrap-bdiff.\n连玉君, 2020, Stata: 如何检验分组回归后的组间系数差异？.\n\nwinsor2：批量缩尾处理\n\n袁煜玲, 2021, winsor2：离群值和异常值的缩尾处理.\n\nihelp / wwwhelp\n\n连享会, 2024, ihelp: 快速打开Stata帮助文件PDF手册.\nChen Yongli, Lian Yujun*. Browse and cite Stata manuals easily: the wwwhelp command. Stata Journal, 2024, 24 (1): 161–168. -PDF-. 安装：ssc install ihelp, replace\n\ngetiref\n\n连玉君, 2024, getiref：快速获得文献的引文和PDF原文.\n\nsftt：双边随机边界模型\n\nLian Yujun, Chang Liu, Christopher F. Parmeter. Two-tier stochastic frontier analysis using Stata. Stata Journal, 2023, 23(1): 197-229. -Link-, -PDF-, Codes & Data, github. 安装：net install st0705.pkg, all replace\n\nhhi5：赫芬达尔指数\n\n连享会, 2020, Stata数据处理：赫芬达尔指数-(hhi5)-命令介绍\n\nxtbalance：非平衡面板 → 平衡面板\n\n吴雄, 2020, Stata数据处理：xtbalance-非平衡面板之转换."
   },
   {
     "objectID": "index.html",
