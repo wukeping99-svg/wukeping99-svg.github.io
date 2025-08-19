@@ -37,7 +37,6 @@ editor:
 
 
 ## 部分论文
-
 - Wu K, Fu Y, Kong D. Does the digital transformation of enterprises affect stock price crash risk? Finance Research Letters. 2022;48:102888. doi:10.1016/j.frl.2022.102888.
 - Wu K, Kong D, Yang W. Does environmental, social, and governance rating affect firms’ real earnings management. Finance Research Letters. 2024;67:105764. doi:10.1016/j.frl.2024.105764.
 - Guo H, Wu K. Does opening high-speed railways affect the cost of debt financing? A quasi-natural experiment. CFRI. 2020;10(4):473-496. doi:10.1108/CFRI-06-2019-0083.
