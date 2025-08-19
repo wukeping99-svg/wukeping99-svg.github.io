@@ -20,8 +20,8 @@ about:
       text: ORCID
       href: https://orcid.org/0000-0003-4949-7786
     - icon: brands zhihu
-      text: 知乎
-      href: https://www.zhihu.com/people/wukeping99/
+      text: SSRN
+      href: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4324175
     - icon: brands weibo
       text: 微博
       href: https://weibo.com/wukeping99
