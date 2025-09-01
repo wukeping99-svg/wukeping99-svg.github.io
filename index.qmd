@@ -1,5 +1,5 @@
 ---
-title: "wukeping"
+title: "Keping Wu"
 image: images/wukeping.png
 about:
   id: hero-heading
