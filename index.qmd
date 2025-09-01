@@ -31,6 +31,12 @@ about:
     - icon: solid user
       text: 百度学术
       href: https://xueshu.baidu.com/scholarID/CN-BZ73TAQJ
+    - icon: brands cnki
+      text: 中国知网
+      href: https://au.cnki.net/author/personalInfo/000058471510  
+    - icon: brands economics
+      text: 经管之家
+      href: https://www.pinggu.org/xszh.php?mod=teacherinfo&id=382 
     - icon: brands home
       text: 科研之友
       href: https://www.scholarmate.com/P/sgGkTE
