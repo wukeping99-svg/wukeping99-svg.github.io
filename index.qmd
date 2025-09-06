@@ -38,7 +38,7 @@ about:
       text: 经管之家
       href: https://www.pinggu.org/xszh.php?mod=teacherinfo&id=382 
     - icon: brands research
-      text: researchgate
+      text: Researchgate
       href: https://www.researchgate.net/lab/wu-Keping-Lab 
     - icon: brands home
       text: 科研之友
