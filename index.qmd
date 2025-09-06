@@ -37,6 +37,9 @@ about:
     - icon: brands economics
       text: 经管之家
       href: https://www.pinggu.org/xszh.php?mod=teacherinfo&id=382 
+    - icon: brands research
+      text: researchgate
+      href: https://www.researchgate.net/lab/wu-Keping-Lab 
     - icon: brands home
       text: 科研之友
       href: https://www.scholarmate.com/P/sgGkTE
